@@ -1,3 +1,14 @@
+# Demo Project: Merkle Trees
+
+This is a demo project for week 2 of the course at Alchemy University. The purpose of this project is to illustrate how Merkle Trees work on both the prover (client) and verifier (server) sides.
+
+
+Here you can found the code for the client and server, as well as a few utilities to help you get started. 
+
+The goal of this project is to prove that a name is in a Merkle Tree. If the name is in the tree, then we can send a gift to that person.
+
+The verifier (server) side running here [Merkle Tree](https://merkle-tree-gift-list-seven.vercel.app/)
+
 # Gift List
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
